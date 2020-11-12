@@ -20,23 +20,9 @@ namespace Ejercicio_4_3_1_1
 
             Console.Write("Introduce el título: ");
             cancionMP3.titulo = Convert.ToString(Console.ReadLine());
-
-            do
-            {
-                try
-                {
-                    Console.Write("Introduce la duracion en segundos: ");
-                    cancionMP3.duracion = Convert.ToInt32(Console.ReadLine());
-
-                    if (cancionMP3.duracion < 1 || cancionMP3.duracion > 60)
-                        throw new Exception("La duracion debe estar en segundos.");
-                    break;
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                }
-            } while (true);
+          
+            Console.Write("Introduce la duracion en segundos: ");
+            cancionMP3.duracion = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Introduce el tamaño en KB: ");
             cancionMP3.tam = Convert.ToInt32(Console.ReadLine());

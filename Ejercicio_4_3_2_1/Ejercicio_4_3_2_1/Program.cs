@@ -33,38 +33,15 @@ namespace Ejercicio_4_3_2_1
                 switch (opcion)
                 {
                     case '1':
-                        try
-                        {
-                            Console.Write("Introduce el Artista: ");
-                            cancionMP3[cantidad].artista = Convert.ToString(Console.ReadLine());
-
-                            Console.Write("Introduce el título: ");
-                            cancionMP3[cantidad].titulo = Convert.ToString(Console.ReadLine());
-
-                            do
-                            {
-                                try
-                                {
-                                    Console.Write("Introduce la duracion en segundos: ");
-                                    cancionMP3[cantidad].duracion = Convert.ToInt32(Console.ReadLine());
-
-                                    if (cancionMP3[cantidad].duracion < 1 || cancionMP3[cantidad].duracion > 60)
-                                        throw new Exception("La duracion debe estar en segundos.");
-                                    break;
-                                }
-                                catch (Exception e)
-                                {
-                                    Console.WriteLine(e.Message);
-                                }
-                            } while (true);
-
-                            Console.Write("Introduce el tamaño en KB: ");
-                            cancionMP3[cantidad].tam = Convert.ToInt32(Console.ReadLine());
-                        }
-                        catch (IndexOutOfRangeException)
-                        {
-                            Console.WriteLine("No se pueden introducir más canciones.");
-                        }
+                        Console.Write("Introduce el Artista: ");
+                        cancionMP3[cantidad].artista = Convert.ToString(Console.ReadLine());
+                        Console.Write("Introduce el título: ");
+                        cancionMP3[cantidad].titulo = Convert.ToString(Console.ReadLine());
+                        Console.Write("Introduce la duracion en segundos: ");
+                        cancionMP3[cantidad].duracion = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Introduce el tamaño en KB: ");
+                        cancionMP3[cantidad].tam = Convert.ToInt32(Console.ReadLine());
+                       
                         cantidad++;
                         break;
                     case '2':
