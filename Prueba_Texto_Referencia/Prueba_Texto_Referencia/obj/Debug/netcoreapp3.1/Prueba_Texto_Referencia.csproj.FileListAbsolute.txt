@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\bin\Debug\netcoreapp3.1\Prueba_Texto_Referencia.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Texto_Referencia\Prueba_Texto_Referencia\obj\Debug\netcoreapp3.1\Prueba_Texto_Referencia.genruntimeconfig.cache

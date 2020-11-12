@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\bin\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_4_1_3_8\Ejercicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejercicio_4_1_3_8.genruntimeconfig.cache

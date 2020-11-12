@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FerTV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FerTV\\.nuget\\packages"
+    ]
+  }
+}

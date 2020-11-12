@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\bin\Debug\netcoreapp3.1\Calcular_tiempo_proceso.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Calcular_tiempo_proceso\Calcular_tiempo_proceso\obj\Debug\netcoreapp3.1\Calcular_tiempo_proceso.genruntimeconfig.cache

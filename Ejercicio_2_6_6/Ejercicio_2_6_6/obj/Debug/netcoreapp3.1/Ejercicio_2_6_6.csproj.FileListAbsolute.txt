@@ -1,0 +1,12 @@
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.exe
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.deps.json
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.runtimeconfig.json
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.runtimeconfig.dev.json
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.dll
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\bin\Debug\netcoreapp3.1\Ejercicio_2_6_6.pdb
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.AssemblyInfoInputs.cache
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.AssemblyInfo.cs
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.dll
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.pdb
+C:\Users\FerTV\source\repos\Ejercicio_2_6_6\Ejercicio_2_6_6\obj\Debug\netcoreapp3.1\Ejercicio_2_6_6.genruntimeconfig.cache
