@@ -44,7 +44,7 @@ namespace Ejercicio_4_3_2_2
                         Imagen[cantidad].tam = Convert.ToSingle(Console.ReadLine());
 
                         cantidad++;
-                        if (cantidad == 700)
+                        if (cantidad == 699)
                             Console.WriteLine("No se pueden introducir más canciones, se ha llegado a la máxima capacidad.");
                         break;
                     case '2':

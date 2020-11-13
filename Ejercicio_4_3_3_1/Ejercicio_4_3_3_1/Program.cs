@@ -42,7 +42,7 @@ namespace Ejercicio_4_3_3_1
                         cancionMP3[cantidad].artista = Convert.ToString(Console.ReadLine());
                         Console.Write("Introduce el título: ");
                         cancionMP3[cantidad].titulo = Convert.ToString(Console.ReadLine());
-                        Console.Write("Introduce la duracion:\n Minutos: ");
+                        Console.Write("Introduce la duracion:\nMinutos: ");
                         cancionMP3[cantidad].duracion.minutos = Convert.ToInt32(Console.ReadLine());
                         Console.Write("Introduce los segundos: ");
                         cancionMP3[cantidad].duracion.segundos = Convert.ToInt32(Console.ReadLine());
