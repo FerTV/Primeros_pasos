@@ -5,7 +5,7 @@ namespace Ejercicio_4_3_2_2
 {
     class Program
     {
-        struct tipoImagen
+        struct TipoImagen
         {
             public string nombre;
             public int ancho;
@@ -14,7 +14,7 @@ namespace Ejercicio_4_3_2_2
         }
         static void Main(string[] args)
         {
-            tipoImagen[] Imagen = new tipoImagen[700];
+            TipoImagen[] Imagen = new TipoImagen[700];
             int cantidad = 0;
             char opcion;
             int numero_buscar;

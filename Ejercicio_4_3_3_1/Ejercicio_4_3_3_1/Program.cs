@@ -1,19 +1,24 @@
 ﻿using System;
 
-namespace Ejercicio_4_3_2_1
+namespace Ejercicio_4_3_3_1
 {
     class Program
     {
+        struct TipoDuracion
+        {
+            public int minutos;
+            public int segundos;
+        }
         struct TipoCancion
         {
             public string artista;
             public string titulo;
-            public int duracion;
+            public TipoDuracion duracion;
             public int tam;
         }
         static void Main(string[] args)
         {
-            TipoCancion[] cancionMP3= new TipoCancion[100];
+            TipoCancion[] cancionMP3 = new TipoCancion[100];
             int cantidad = 0;
             char opcion;
             string buscar_cancion;
@@ -37,11 +42,13 @@ namespace Ejercicio_4_3_2_1
                         cancionMP3[cantidad].artista = Convert.ToString(Console.ReadLine());
                         Console.Write("Introduce el título: ");
                         cancionMP3[cantidad].titulo = Convert.ToString(Console.ReadLine());
-                        Console.Write("Introduce la duracion en segundos: ");
-                        cancionMP3[cantidad].duracion = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Introduce la duracion:\n Minutos: ");
+                        cancionMP3[cantidad].duracion.minutos = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Introduce los segundos: ");
+                        cancionMP3[cantidad].duracion.segundos = Convert.ToInt32(Console.ReadLine());
                         Console.Write("Introduce el tamaño en KB: ");
                         cancionMP3[cantidad].tam = Convert.ToInt32(Console.ReadLine());
-                       
+
                         cantidad++;
                         break;
                     case '2':
@@ -61,14 +68,14 @@ namespace Ejercicio_4_3_2_1
                             {
                                 Console.WriteLine("Artista: {0}", cancionMP3[i].artista);
                                 Console.WriteLine("Título: {0}", cancionMP3[i].titulo);
-                                Console.WriteLine("Duración: {0}", cancionMP3[i].duracion);
+                                Console.WriteLine("Duración: minutos {0}, segundos {1}", cancionMP3[i].duracion.minutos, cancionMP3[i].duracion.segundos);
                                 Console.WriteLine("Tamaño: {0}", cancionMP3[i].tam);
                                 cancion_encontrada = true;
                                 break;
                             }
                         }
 
-                        if(cancion_encontrada==false)
+                        if (cancion_encontrada == false)
                         {
                             Console.WriteLine("La canción no ha sido encontrada.");
                         }
