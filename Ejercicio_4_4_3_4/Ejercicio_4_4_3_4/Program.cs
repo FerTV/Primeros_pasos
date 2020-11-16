@@ -30,7 +30,7 @@ namespace Ejercicio_4_4_3_4
                 if (suma > 9)
                 {
                     acarreo = 1;
-                    resultado =resultado-10;
+                    resultado -= 10;
                 }
                 else
                     acarreo = 0;
