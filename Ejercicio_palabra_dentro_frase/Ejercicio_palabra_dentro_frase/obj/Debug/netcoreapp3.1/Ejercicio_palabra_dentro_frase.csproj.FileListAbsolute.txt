@@ -1,0 +1,12 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\bin\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_palabra_dentro_frase\Ejercicio_palabra_dentro_frase\obj\Debug\netcoreapp3.1\Ejercicio_palabra_dentro_frase.genruntimeconfig.cache

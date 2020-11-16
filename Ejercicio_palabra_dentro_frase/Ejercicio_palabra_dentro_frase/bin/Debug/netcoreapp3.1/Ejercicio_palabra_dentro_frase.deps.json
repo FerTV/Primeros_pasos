@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio_palabra_dentro_frase/1.0.0": {
+        "runtime": {
+          "Ejercicio_palabra_dentro_frase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_palabra_dentro_frase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
