@@ -13,7 +13,7 @@ namespace Ejercicio_4_4_3_4
             int resultado;
             string cadena_resultado="";
             int acarreo = 0;
-            int suma = 0;
+            int suma;
 
             Console.Write("Introduce el primer número: ");
             cadena_numero1 = Console.ReadLine();
