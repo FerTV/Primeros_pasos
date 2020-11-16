@@ -12,7 +12,8 @@ namespace Ejercicio_4_4_3_4
             int n2;
             int resultado;
             string cadena_resultado="";
-            int longitud;
+            int acarreo = 0;
+            int suma = 0;
 
             Console.Write("Introduce el primer número: ");
             cadena_numero1 = Console.ReadLine();
@@ -20,16 +21,19 @@ namespace Ejercicio_4_4_3_4
             Console.Write("Introduce el segundo número: ");
             cadena_numero2 = Console.ReadLine();
 
-            if (cadena_numero1.Length > cadena_numero2.Length)
-                longitud = cadena_numero1.Length;
-            else
-                longitud = cadena_numero2.Length;
-
-            for (int i = longitud - 1; i >= 0; i--)
+            for (int i = cadena_numero1.Length - 1; i >= 0; i--)
             {
                 n1 = (int)Char.GetNumericValue(cadena_numero1[i]);
                 n2 = (int)Char.GetNumericValue(cadena_numero2[i]);
-                resultado = n1 + n2;
+                suma = n1 + n2;
+                resultado = suma + acarreo;
+                if (suma > 9)
+                {
+                    acarreo = 1;
+                    resultado =resultado-10;
+                }
+                else
+                    acarreo = 0;
                 cadena_resultado += Convert.ToString(resultado);//almacena el resultado, pero los nuevos valores iran a la
                                                                 //derecha en vez de a la izquierda por lo que habrá que leerla al revés
             }
@@ -37,7 +41,7 @@ namespace Ejercicio_4_4_3_4
             Console.Write("El resultado es: ");
 
             //Leo la cadena_resultado al reves
-            for (int i=cadena_resultado.Length-1;i>=0;i--)
+            for (int i = cadena_resultado.Length - 1; i >= 0; i--)
             {
                 Console.Write("{0}", cadena_resultado[i]);
             }
