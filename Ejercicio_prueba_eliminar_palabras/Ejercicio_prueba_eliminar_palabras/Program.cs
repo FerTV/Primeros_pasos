@@ -10,8 +10,8 @@ namespace Ejercicio_prueba_eliminar_palabras
             string palabra_eliminar;
             string palabra_introducir;
             int posicion;
-
-            Console.Write("Introduce la frase: ");
+            
+            Console.Write("Introduce la frase: ");  
             frase = Console.ReadLine();
             Console.Write("Introduce la palabra a eliminar: ");
             palabra_eliminar = Console.ReadLine();
