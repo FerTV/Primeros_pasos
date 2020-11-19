@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\bin\Debug\netcoreapp3.1\Ejercicio_compareto.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_compareto\Ejercicio_compareto\obj\Debug\netcoreapp3.1\Ejercicio_compareto.genruntimeconfig.cache

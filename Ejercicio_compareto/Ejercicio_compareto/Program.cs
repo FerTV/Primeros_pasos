@@ -12,12 +12,13 @@ namespace Ejercicio_compareto
             cadena1 = Console.ReadLine();
             Console.Write("Introduce la cadena2: ");
             cadena2 = Console.ReadLine();
-
-            if (cadena1.CompareTo(cadena2) > 0)
+            
+            //usamos compare NO COMPARETO!!!
+            if (String.Compare(cadena1, cadena2, true) > 0)
                 Console.WriteLine("La cadena 1 es mayor que la cadena 2");
             else
             {
-                if (cadena1.CompareTo(cadena2) < 0)
+                if (String.Compare(cadena1, cadena2, true) < 0)
                     Console.WriteLine("La cadena 2 es mayor que la cadena 1");
                 else
                     Console.WriteLine("Las dos cadenas son iguales");
