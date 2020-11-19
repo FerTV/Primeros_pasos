@@ -30,8 +30,6 @@ namespace Ejercicio_4_4_3_5
                 n1 = (int)Char.GetNumericValue(cadena_numero1[i]);
                 n2 = (int)Char.GetNumericValue(cadena_numero2[i]);
                 resultado = n1 * n2;
-                cadena_resultado += Convert.ToString(resultado);//almacena el resultado, pero los nuevos valores iran a la
-                                                                //derecha en vez de a la izquierda por lo que habrá que leerla al revés
             }
 
             Console.Write("El resultado es: ");
