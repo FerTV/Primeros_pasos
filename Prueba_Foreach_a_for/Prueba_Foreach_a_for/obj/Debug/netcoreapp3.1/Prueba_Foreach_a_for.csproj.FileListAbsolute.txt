@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\bin\Debug\netcoreapp3.1\Prueba_Foreach_a_for.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Prueba_Foreach_a_for\Prueba_Foreach_a_for\obj\Debug\netcoreapp3.1\Prueba_Foreach_a_for.genruntimeconfig.cache
