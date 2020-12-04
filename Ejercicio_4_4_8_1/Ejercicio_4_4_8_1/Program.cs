@@ -8,10 +8,10 @@ namespace Ejercicio_4_4_8_1
         {
             const int TAM_MAX = 5;
             string[] cadena = new string[TAM_MAX];
-            string cadena_mayor="";
+            string cadena_mayor = "";
 
-           for(int i=0;i<TAM_MAX;i++)
-           {
+            for (int i = 0; i < TAM_MAX; i++)
+            {
                 Console.Write("Introduce la cadena {0}: ", i + 1);
                 cadena[i] = Console.ReadLine();
 
@@ -24,7 +24,7 @@ namespace Ejercicio_4_4_8_1
                 }
                 else
                     cadena_mayor = cadena[i];
-           }
+            }
             Console.WriteLine("La cadena mayor es: {0}", cadena_mayor);
         }
     }
