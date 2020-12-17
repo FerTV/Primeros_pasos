@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\bin\Debug\netcoreapp3.1\Ejericico_5_3_3.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejericico_5_3_3\Ejericico_5_3_3\obj\Debug\netcoreapp3.1\Ejericico_5_3_3.genruntimeconfig.cache
