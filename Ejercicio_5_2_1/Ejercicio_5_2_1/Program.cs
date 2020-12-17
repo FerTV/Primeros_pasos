@@ -6,8 +6,10 @@ namespace Ejercicio_5_2_1
     {
         static void BorrarPantalla()
         {
-            for (int i = 0; i < 25; i++)
+            /*for (int i = 0; i < 25; i++)
                 Console.WriteLine();
+            */
+            Console.Clear();//Borra la pantalla
         }
         static void Main(string[] args)
         {
