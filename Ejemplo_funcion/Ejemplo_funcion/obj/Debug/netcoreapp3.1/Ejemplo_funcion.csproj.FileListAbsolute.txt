@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\bin\Debug\netcoreapp3.1\Ejemplo_funcion.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejemplo_funcion\Ejemplo_funcion\obj\Debug\netcoreapp3.1\Ejemplo_funcion.genruntimeconfig.cache
