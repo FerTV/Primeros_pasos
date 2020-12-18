@@ -8,7 +8,7 @@ namespace Ejercicio_5_4_2
         {
             int menor;
 
-            menor = x > y ? x : y;
+            menor = x < y ? x : y;
 
             return menor;
         }
