@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FerTV\\source\\repos\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\Ejercicio_5_4_5.csproj",
+      "projectUniqueName": "C:\\Users\\FerTV\\Documents\\DAM\\Programación\\Programas\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\Ejercicio_5_4_5.csproj",
       "projectName": "Ejercicio_5_4_5",
-      "projectPath": "C:\\Users\\FerTV\\source\\repos\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\Ejercicio_5_4_5.csproj",
+      "projectPath": "C:\\Users\\FerTV\\Documents\\DAM\\Programación\\Programas\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\Ejercicio_5_4_5.csproj",
       "packagesPath": "C:\\Users\\FerTV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FerTV\\source\\repos\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\obj\\",
+      "outputPath": "C:\\Users\\FerTV\\Documents\\DAM\\Programación\\Programas\\Ejercicio_5_4_5\\Ejercicio_5_4_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FerTV\\AppData\\Roaming\\NuGet\\NuGet.Config",

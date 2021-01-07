@@ -8,7 +8,7 @@ namespace Ejercicio_5_4_5
         {
             char c;
 
-            return c = cadena[cadena.Length];
+            return c = cadena[cadena.Length-1];
         }
         static void Main(string[] args)
         {

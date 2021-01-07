@@ -21,7 +21,7 @@ namespace Ejercicio_5_7_2
 
             Console.Write("Introduce una cadena: ");
             cadena = Console.ReadLine();
-            Iniciales(cadena,out letra1, out letra2);
+            Iniciales(cadena, out letra1, out letra2);
             Console.WriteLine("La primera letra es {0} y la siguiente letra es {1}", letra1, letra2);
         }
     }
