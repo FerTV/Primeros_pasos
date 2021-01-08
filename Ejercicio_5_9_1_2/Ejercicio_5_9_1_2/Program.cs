@@ -10,7 +10,7 @@ namespace Ejercicio_5_9_1_2
             int num_aleatorio = generador.Next(1, 101);
             int numero;
 
-            for(int i=0;i<6;i++)
+            for (int error = 0; error < 6; error++)
             {
                 Console.Write("Introduce un número: ");
                 numero = Convert.ToInt32(Console.ReadLine());
