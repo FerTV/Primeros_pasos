@@ -10,11 +10,13 @@ namespace Ejercicio_5_9_1_5
             Random r = new Random();
             int alto_random, ancho_random;
 
+            //Asignar asteriscos
             for (int i = 0; i < 100; i++)
             {
                 alto_random = r.Next(0, 24);
                 ancho_random = r.Next(0, 79);
 
+                //Generar uno nuevo si ya existe otro
                 do
                 {
                     alto_random = r.Next(0, 24);
@@ -24,6 +26,7 @@ namespace Ejercicio_5_9_1_5
                 pantalla[alto_random, ancho_random] = '*';
             }
 
+            //Dibujar asterisco
             for (int i = 0; i < 24; i++)
             {
                 for (int j = 0; j < 79; j++)
