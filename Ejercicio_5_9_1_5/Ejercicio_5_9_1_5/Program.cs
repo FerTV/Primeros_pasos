@@ -13,10 +13,7 @@ namespace Ejercicio_5_9_1_5
             //Asignar asteriscos
             for (int i = 0; i < 100; i++)
             {
-                alto_random = r.Next(0, 24);
-                ancho_random = r.Next(0, 79);
-
-                //Generar uno nuevo si ya existe otro
+                //Generar nuevo asterisco
                 do
                 {
                     alto_random = r.Next(0, 24);
