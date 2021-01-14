@@ -8,17 +8,17 @@ namespace Ejercicio_5_9_2_3
         {
             double modulo;
 
-            modulo = Math.Pow(b, 2) - (4 * a * c);
+            modulo = Math.Sqrt(Math.Pow(b, 2) - (4 * a * c));
 
-            if (modulo < 0 || a == 0)
+            if (double.IsNaN(modulo) || a == 0)
             {
                 x1 = 100000;
                 x2 = 100000;
             }
             else
             {
-                x1 = (-b + Math.Sqrt(modulo)) / 2 * a;
-                x2 = (-b - Math.Sqrt(modulo)) / 2 * a;
+                x1 = (-b + modulo) / (2 * a);
+                x2 = (-b - modulo) / (2 * a);
             }
         }
         static void Main(string[] args)
