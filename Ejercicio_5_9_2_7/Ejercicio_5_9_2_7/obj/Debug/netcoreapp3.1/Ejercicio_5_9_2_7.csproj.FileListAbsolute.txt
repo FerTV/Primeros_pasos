@@ -10,3 +10,4 @@ C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_5_9_2_7\Ejercicio
 C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_5_9_2_7\Ejercicio_5_9_2_7\obj\Debug\netcoreapp3.1\Ejercicio_5_9_2_7.dll
 C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_5_9_2_7\Ejercicio_5_9_2_7\obj\Debug\netcoreapp3.1\Ejercicio_5_9_2_7.pdb
 C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_5_9_2_7\Ejercicio_5_9_2_7\obj\Debug\netcoreapp3.1\Ejercicio_5_9_2_7.genruntimeconfig.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_5_9_2_7\Ejercicio_5_9_2_7\obj\Debug\netcoreapp3.1\Ejercicio_5_9_2_7.csprojAssemblyReference.cache
