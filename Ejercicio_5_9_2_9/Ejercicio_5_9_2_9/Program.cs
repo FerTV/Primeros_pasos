@@ -9,7 +9,7 @@ namespace Ejercicio_5_9_2_9
             char[,] pantalla = new char[21,73];
             double valor;
 
-            //calcular valores funcion
+            //calcular valores función
             for (int coord_x = 0; coord_x < 73; coord_x++)
             {
                 valor = (10 * Math.Sin(5 * coord_x * (Math.PI / 180)))+10;
@@ -17,7 +17,7 @@ namespace Ejercicio_5_9_2_9
                     pantalla[(int)valor, coord_x] = '*';
             }
 
-
+            //Dibujar función
             for(int coord_y=0;coord_y<21;coord_y++)
             {
                 for(int coord_x=0;coord_x<73;coord_x++)
