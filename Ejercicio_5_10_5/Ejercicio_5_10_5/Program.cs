@@ -8,7 +8,15 @@ namespace Ejercicio_5_10_5
         {
             if (pos == 0)
             {
-                return mayor;
+                if(vector[0]>mayor)
+                {
+                    mayor = vector[pos];
+                    return mayor;
+                }
+                else
+                {
+                    return mayor;
+                }
             }
             else
             {
