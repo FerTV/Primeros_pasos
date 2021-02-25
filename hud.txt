@@ -1,0 +1,6 @@
+boton-click
+textbox-text
+radio button: nombre, contenido, grupo
+listbox<8 combobox>8 recomendación
+Usuario:FTV001 
+Contraseña:ftv001h0l4

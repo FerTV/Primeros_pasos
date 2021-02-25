@@ -1,0 +1,20 @@
+un cliente nos pide una ficha para dar de alta los datos son: 
+nombre 32 carácteres y requerido,
+primer apellido 32 caracteres y requerido, 
+segundo apellido 32 caracteres,
+telf 1 requerido solo numeros, 
+telf 2 solo numeros no requerido, 
+correo electronico requerido, 
+cliente o distribuidor, 
+dirección 100 caracteres requerido, 
+codigo postal 5 caracteres requerido, 
+poblacio 32 caracteres requerido, 
+provincia si es cliente las provincias seran: castellon, valencia, alicante, murcia, albacete, cuencay teruel, 
+si es distribuidor: castellon, valencia y alicante.
+2 botones aceptar, cancelar.
+Si todo completo mensajebox mostrar info.
+la sentencia insert into tabla y todos los campos de sql.
+si le doy a cancelar se cierra y ya esta.
+dos formas hacer un insert si me falta campo:
+antes de guardar mirar que campos faltan y llevar al usuario allí,
+dejar aceptar inhibilitado hasta que los campos requeridos esten rellenados.

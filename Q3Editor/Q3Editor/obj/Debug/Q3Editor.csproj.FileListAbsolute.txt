@@ -1,0 +1,15 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\bin\Debug\Q3Editor.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\MainWindow.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\App.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.lref
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\MainWindow.baml
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.g.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Q3Editor\Q3Editor\obj\Debug\Q3Editor.pdb

@@ -1,0 +1,37 @@
+﻿<Window x:Class="Ejemplo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejemplo1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="132*"/>
+            <ColumnDefinition Width="661*"/>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Grid.Column="1"/>
+        <Button x:Name="btn_Salir" Content="Salir" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="24" Click="btn_Salir_Click" FontFamily="Arial" Background="#FFDDD7D7" Cursor="Hand" Margin="79,173,0,0" Grid.Column="1"/>
+        <TextBox x:Name="txt_nombre" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="128,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFBF0E0E" GotFocus="txt_nombre_GotFocus"/>
+        <Label x:Name="lbl_nombre" Content="Nombre: " Grid.Column="1" HorizontalAlignment="Left" Margin="74,49,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.359,-5.522"/>
+        <CheckBox x:Name="cb_estudias" Content="¿Etudias?" Grid.Column="1" HorizontalAlignment="Left" Margin="82,100,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="cb_trabajas" Content="¿Trabajas?" Grid.Column="1" HorizontalAlignment="Left" Margin="82,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.303,-3.303"/>
+        <RadioButton x:Name="rb_mayor_18" Content="¿Mayor de 18?" Grid.Column="1" HorizontalAlignment="Left" Margin="194,100,0,0" VerticalAlignment="Top" GroupName="edad"/>
+        <RadioButton x:Name="rb_menor_18" Content="¿Menor de 18?" Grid.Column="1" HorizontalAlignment="Left" Margin="194,136,0,0" VerticalAlignment="Top" GroupName="edad"/>
+        <RadioButton x:Name="rb_coche" Content="coche" Grid.Column="1" HorizontalAlignment="Left" Margin="322,100,0,0" VerticalAlignment="Top" GroupName="vehiculo" Height="18" RenderTransformOrigin="0.5,0.5" Width="66" Click="rb_coche_Click"/>
+        <RadioButton x:Name="rb_moto" Content="moto" Grid.Column="1" HorizontalAlignment="Left" Margin="322,136,0,0" VerticalAlignment="Top" GroupName="vehiculo" Checked="rb_moto_Checked"/>
+        <ListBox x:Name="lb_provincias" Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="393,97,0,0" VerticalAlignment="Top" Width="100">
+            <ListBoxItem Content="Alicante"/>
+            <ListBoxItem Content="Castellón"/>
+            <ListBoxItem Content="Valencia"/>
+        </ListBox>
+        <ComboBox x:Name="cb_provincias" Grid.Column="1" HorizontalAlignment="Left" Margin="393,217,0,0" VerticalAlignment="Top" Width="120" DropDownClosed="cb_provincias_DropDownClosed" KeyUp="cb_provincias_KeyUp">
+            <ComboBoxItem Content="Alava"/>
+            <ComboBoxItem Content="Almeria"/>
+            <ComboBoxItem Content="Alicante"/>
+            <ComboBoxItem Content="Badajoz"/>
+        </ComboBox>
+        <Button x:Name="b_provincias" Content="Provincias" Grid.Column="1" HorizontalAlignment="Left" Margin="393,277,0,0" VerticalAlignment="Top" Width="75" Click="b_provincias_Click"/>
+    </Grid>
+</Window>

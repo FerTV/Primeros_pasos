@@ -1,0 +1,40 @@
+﻿<Window x:Name="m_window" x:Class="Q3Editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Q3Editor"
+        mc:Ignorable="d"
+        Title="Q3Editor" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowState="Maximized" Closing="m_window_Closing">
+    <Grid Margin="0,0,-0.4,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="199*"/>
+            <ColumnDefinition Width="198*"/>
+        </Grid.ColumnDefinitions>
+        <Menu x:Name="menu" Margin="0,0,-0.4,396" Grid.ColumnSpan="2">
+            <MenuItem x:Name="m_archivo" Header="_Archivo" Height="24" Width="56">
+                <MenuItem x:Name="m_archivo_nuevo" Header="_Nuevo" Height="24" Click="m_archivo_nuevo_Click"/>
+                <MenuItem x:Name="m_archivo_abrir" Header="_Abrir..." HorizontalAlignment="Left" Height="24" Width="139.2" Click="m_archivo_abrir_Click"/>
+                <Separator x:Name="m_archivo_separador1" HorizontalAlignment="Left" Height="1" Width="180"/>
+                <Separator x:Name="m_archivo_separador2" HorizontalAlignment="Left" Height="1" Width="180"/>
+                <MenuItem x:Name="m_archivo_Guardar" Header="_Guardar" HorizontalAlignment="Left" Height="24" Width="139.2" Click="m_archivo_Guardar_Click"/>
+                <MenuItem x:Name="m_archivo_Guardar_como" Header="G_uardar Como..." HorizontalAlignment="Left" Height="24" Width="180"/>
+                <Separator x:Name="m_archivo_separador3" HorizontalAlignment="Left" Height="1" Width="180"/>
+                <MenuItem x:Name="m_archivo_imprimir" Header="_Imprimir" HorizontalAlignment="Left" Height="24" Width="139.2" Click="m_archivo_imprimir_Click"/>
+                <Separator x:Name="m_archivo_separador4" HorizontalAlignment="Left" Height="1" Width="180"/>
+                <MenuItem x:Name="m_archivo_salir" Header="_Salir" HorizontalAlignment="Left" Height="24" Width="139.2" Click="m_archivo_salir_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="m_editar" Header="_Editar" Height="24" Width="45">
+                <MenuItem x:Name="m_editar_cortar" Header="_Cortar" Height="24" Margin="0,0,0,0"/>
+                <MenuItem x:Name="m_editar_copiar" Header="C_opiar" Height="24" Margin="0,0,0,0"/>
+                <MenuItem x:Name="m_editar_pegar" Header="_Pegar" Height="24" Margin="0,0,0,0"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar x:Name="statusBar" Height="24" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Margin="0,0,0.6,0">
+            <StatusBarItem x:Name="panelEstado" Content="Guardado" Width="80"/>
+            <StatusBarItem x:Name="panelNombre" Content="&lt;Sin nombre>" BorderBrush="Gray" BorderThickness="1, 0, 0, 0"/>
+        </StatusBar>
+        <TextBox x:Name="m_contenido" Margin="0,24,0.6,24" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" Grid.ColumnSpan="2" BorderThickness="0"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\bin\Debug\Group_box.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\bin\Debug\Group_box.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\bin\Debug\Group_box.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\MainWindow.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\App.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box_MarkupCompile.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box_MarkupCompile.lref
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\MainWindow.baml
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.g.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Group_box\Group_box\obj\Debug\Group_box.pdb
