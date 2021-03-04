@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ejercicio_6_3_7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_6_3_7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbl_marca" Content="Marca" HorizontalAlignment="Left" Margin="86,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_modelo" Content="Modelo" HorizontalAlignment="Left" Margin="86,109,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_cilindrada" Content="Cilindrada" HorizontalAlignment="Left" Margin="86,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_potencia" Content="Potencia" HorizontalAlignment="Left" Margin="86,171,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_marca" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,78,0,0"/>
+        <TextBox x:Name="txt_modelo" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,112,0,0"/>
+        <TextBox x:Name="txt_cilindrada" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,143,0,0"/>
+        <TextBox x:Name="txt_potencia" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,174,0,0"/>
+        <Button x:Name="tb_introducir_datos" Content="Introducir datos" HorizontalAlignment="Left" Margin="161,202,0,0" VerticalAlignment="Top" Width="120" Click="tb_introducir_datos_Click"/>
+        <Button x:Name="tb_mostrar_datos" Content="Mostrar datos" HorizontalAlignment="Left" Margin="161,226,0,0" VerticalAlignment="Top" Width="120" Click="tb_mostrar_datos_Click"/>
+
+    </Grid>
+</Window>
