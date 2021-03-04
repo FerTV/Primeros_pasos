@@ -32,7 +32,7 @@ namespace Ejercicio_6_2_1
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml
     /// </summary>
-    public partial class MainWindow 
+    public partial class MainWindow : Window
     {
         Persona persona1;
         Persona persona2;
