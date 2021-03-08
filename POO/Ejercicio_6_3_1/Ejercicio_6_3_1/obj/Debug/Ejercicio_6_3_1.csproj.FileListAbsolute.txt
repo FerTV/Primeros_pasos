@@ -1,0 +1,15 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\bin\Debug\Ejercicio_6_3_1.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\bin\Debug\Ejercicio_6_3_1.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\bin\Debug\Ejercicio_6_3_1.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\MainWindow.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\App.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1_MarkupCompile.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1_MarkupCompile.lref
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\MainWindow.baml
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.g.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\Ejercicio_6_3_1\Ejercicio_6_3_1\obj\Debug\Ejercicio_6_3_1.pdb

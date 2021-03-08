@@ -1,17 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Ejercicio_6_3_1
 {
@@ -26,6 +14,18 @@ namespace Ejercicio_6_3_1
             InitializeComponent();
 
             puerta = new CPruerta();
+        }
+        private void bt_guardar_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                puerta.SetAncho(Convert.ToInt32(txt_ancho.Text));
+                puerta.SetAlto(Convert.ToInt32(txt_alto.Text));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

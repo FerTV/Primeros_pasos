@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="txt_ancho" HorizontalAlignment="Left" Height="23" Margin="146,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="bt_guardar" Content="Guardar" HorizontalAlignment="Left" Margin="146,130,0,0" VerticalAlignment="Top" Width="120" Click="bt_guardar_Click"/>
+        <Label x:Name="lbl_ancho" Content="Ancho" HorizontalAlignment="Left" Margin="99,60,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_alto" Content="Alto" HorizontalAlignment="Left" Margin="99,91,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_alto" HorizontalAlignment="Left" Height="23" Margin="146,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
     </Grid>
 </Window>

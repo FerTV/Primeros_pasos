@@ -6,7 +6,6 @@
         private string modelo;
         private int cilindrada;
         private float potencia;
-
         public void SetMarca(string marca)
         {
             this.marca = marca;

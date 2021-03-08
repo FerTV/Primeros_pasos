@@ -1,0 +1,34 @@
+﻿<Window x:Class="Ejercicio_6_4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_6_4_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbl_marca_coche" Content="Marca" HorizontalAlignment="Left" Margin="86,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_modelo_coche" Content="Modelo" HorizontalAlignment="Left" Margin="86,109,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_cilindrada_coche" Content="Cilindrada" HorizontalAlignment="Left" Margin="86,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_potencia_coche" Content="Potencia" HorizontalAlignment="Left" Margin="86,171,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_marca_coche" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,78,0,0"/>
+        <TextBox x:Name="txt_modelo_coche" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,112,0,0"/>
+        <TextBox x:Name="txt_cilindrada_coche" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,143,0,0"/>
+        <TextBox x:Name="txt_potencia_coche" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="161,174,0,0"/>
+        <Button x:Name="tb_introducir_datos_coche" Content="Introducir datos" HorizontalAlignment="Left" Margin="161,202,0,0" VerticalAlignment="Top" Width="120" Click="tb_introducir_datos_coche_Click"/>
+        <Button x:Name="tb_mostrar_datos_coche" Content="Mostrar datos" HorizontalAlignment="Left" Margin="161,226,0,0" VerticalAlignment="Top" Width="120" Click="tb_mostrar_datos_coche_Click"/>
+        <Label x:Name="lbl_coche" Content="Coche" HorizontalAlignment="Left" Margin="200,28,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_moto" Content="Moto" HorizontalAlignment="Left" Margin="484,28,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_marca_moto" Content="Marca" HorizontalAlignment="Left" Margin="409,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_modelo_moto" Content="Modelo" HorizontalAlignment="Left" Margin="409,109,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_cilindrada_moto" Content="Cilindrada" HorizontalAlignment="Left" Margin="409,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_potencia_moto" Content="Potencia" HorizontalAlignment="Left" Margin="409,171,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_marca_moto" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="484,78,0,0"/>
+        <TextBox x:Name="txt_modelo_moto" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="484,112,0,0"/>
+        <TextBox x:Name="txt_cilindrada_moto" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="484,143,0,0"/>
+        <TextBox x:Name="txt_potencia_moto" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="484,174,0,0"/>
+        <Button x:Name="tb_introducir_datos_moto" Content="Introducir datos" HorizontalAlignment="Left" Margin="484,202,0,0" VerticalAlignment="Top" Width="120" Click="tb_introducir_datos_moto_Click"/>
+        <Button x:Name="tb_mostrar_datos_moto" Content="Mostrar datos" HorizontalAlignment="Left" Margin="484,226,0,0" VerticalAlignment="Top" Width="120" Click="tb_mostrar_datos_moto_Click"/>
+
+    </Grid>
+</Window>

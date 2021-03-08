@@ -33,7 +33,7 @@ namespace Ejercicio_6_3_7
             coche.SetCilindrada(Convert.ToInt32(txt_cilindrada.Text));
             coche.SetMarca(txt_marca.Text);
             coche.SetModelo(txt_modelo.Text);
-            coche.SetPotencia(Convert.ToInt32(txt_potencia));
+            coche.SetPotencia(Convert.ToSingle(txt_potencia.Text));
         }
 
         private void tb_mostrar_datos_Click(object sender, RoutedEventArgs e)
