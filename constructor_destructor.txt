@@ -1,0 +1,13 @@
+Los constructores se utilizan para:
+-dar valores a los atributos
+-abrir ficheros
+-abrir la conexion a una base de datos
+-reservar memoria
+
+6.6.1
+6.6.2
+6.6.4
+
+6.8.1
+6.8.2
+6.8.4
