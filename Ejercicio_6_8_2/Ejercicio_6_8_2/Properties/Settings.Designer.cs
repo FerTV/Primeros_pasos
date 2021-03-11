@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ejercicio_6_8_1.Properties
+namespace Ejercicio_6_8_2.Properties
 {
 
 

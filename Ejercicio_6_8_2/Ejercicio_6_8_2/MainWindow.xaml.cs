@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Ejercicio_6_8_1
+namespace Ejercicio_6_8_2
 {
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml
