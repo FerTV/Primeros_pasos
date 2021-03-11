@@ -1,0 +1,15 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\MainWindow.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\App.g.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4_MarkupCompile.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4_MarkupCompile.lref
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\bin\Debug\Ejercicio_6_6_4.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\bin\Debug\Ejercicio_6_6_4.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\bin\Debug\Ejercicio_6_6_4.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\MainWindow.baml
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.g.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Ejercicio_6_6_4\Ejercicio_6_6_4\obj\Debug\Ejercicio_6_6_4.pdb
