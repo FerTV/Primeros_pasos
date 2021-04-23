@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Ejercicio_8_3_2
 {
@@ -6,7 +7,18 @@ namespace Ejercicio_8_3_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            string linea;
+            using (StreamReader fichero = new StreamReader("prueba.txt"))
+            {
+                do
+                {
+                    linea = fichero.ReadLine();
+                    if (linea != null)
+                        Console.WriteLine(linea);
+                }
+                while (linea != null);
+            }
         }
     }
 }
