@@ -21,14 +21,14 @@ namespace Ejercicio_8_2_2
                 }
             }
 
-            using (StreamReader fichero = new StreamReader("registroDeUsuario.txt"))
+            StreamReader ficheroR = new StreamReader("registroDeUsuario.txt");
+
+            for (int i = 0; i < 3; i++)
             {
-                for (int i = 0; i < 3; i++)
-                {
-                    Console.WriteLine(fichero.ReadLine());
-                }
+                Console.WriteLine(ficheroR.ReadLine());
             }
 
+            ficheroR.Close();
         }
     }
 }
