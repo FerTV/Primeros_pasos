@@ -18,7 +18,7 @@ namespace Ejercicio_8_5_1
                 suma = n1 + n2;
                 Console.WriteLine("{0} + {1} = {2}", n1, n2, suma);
                 fichero.WriteLine("{0} + {1} = {2}", n1, n2, suma);
-            }
+             }
         }
     }
 }
