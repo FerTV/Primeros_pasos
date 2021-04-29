@@ -15,16 +15,15 @@ public class Ejercicio_8_6_2
             if (nombre == "fin")
             {
                 parar = true;
-                break;
             }
-            if (File.Exists(nombre))
+            if (File.Exists(nombre)&&!parar)
             {
                 fichero = File.OpenText(nombre);
                 Console.WriteLine("Su primera linea es: {0}",
                 fichero.ReadLine());
                 fichero.Close();
             }
-            else
+            else if(!parar)
                 Console.WriteLine("No existe!");
         }
     }
