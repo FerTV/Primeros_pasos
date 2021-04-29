@@ -8,7 +8,7 @@ public class Ejercicio_8_6_2
         string nombre;
         bool parar=false;
 
-        while (parar) // Interrumpimos desde dentro con "break"
+        while (!parar) // Interrumpimos desde dentro con "break"
         {
             Console.Write("Nombre del fichero (\"fin\" para terminar)? ");
             nombre = Console.ReadLine();
