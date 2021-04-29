@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\bin\Debug\netcoreapp3.1\binario.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\binario\binario\obj\Debug\netcoreapp3.1\binario.genruntimeconfig.cache
