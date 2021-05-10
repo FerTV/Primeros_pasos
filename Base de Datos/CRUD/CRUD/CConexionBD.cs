@@ -21,7 +21,6 @@ namespace CRUD
             if (Connection.State == ConnectionState.Closed)
                 Connection.Open();
         }
-
         public void Cerrar()
         {
             // Si la conexión está abierta, la cerramos.
