@@ -1,0 +1,13 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.AssemblyInfoInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.AssemblyInfo.cs
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.deps.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.runtimeconfig.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.runtimeconfig.dev.json
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\bin\Debug\netcoreapp3.1\repaso_POO.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\POO\repaso_POO\repaso_POO\obj\Debug\netcoreapp3.1\repaso_POO.genruntimeconfig.cache

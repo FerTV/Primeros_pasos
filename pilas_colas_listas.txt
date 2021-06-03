@@ -1,0 +1,5 @@
+Pila ----> LIFO (Last In First Out) pila.count!=0 Para saber si una pila tiene elementos
+Cola ----> FIFO (First In First Out)
+Listas --> Las puedes ordenar como quieras ej: Combobox --> Sort it (lista) Ordena cuando le meto elementos
+Árboles -> Se utilizan para realizar expresiones matemáticas o para ordenar rápidamente
+Grafos --> ---

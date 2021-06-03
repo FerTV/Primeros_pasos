@@ -16,6 +16,7 @@ namespace CRUD
         private SqlDataReader sqlDataReader;
         public int Categoria_id { get; set; }
         public String Categoria { get; set; }
+        
         public DataTable Seleccionar(int categoria_id = 0)
         {
             DataTable dataTable = new DataTable();

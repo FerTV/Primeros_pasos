@@ -1,0 +1,76 @@
+class Puerta
+{
+    public int ancho;
+    public int alto;
+
+    Puerta()
+    {
+        this.ancho=80;
+        this.alto=215;
+    }
+    Puerta(int ancho, int alto)
+    {
+        this.ancho=ancho;
+        this.alto=alto;
+    }
+}
+
+//Heredar
+class Piso : Puerta
+{
+    public int superficie;
+
+    Piso() : base()
+    {
+        this.superficie=80;
+    }
+    Piso(int superficie, int ancho, int alto) : base(ancho, alto)
+    {
+        this.superficie=superficie;
+    }
+
+    //crear num_puertas_determinado
+//  Piso(int cantidad)
+//  {
+//      puerta=newPuerta[cantidad];
+//      for(int i=0; i < cantidad; i++)
+//      {
+//          puerta[i]=newPuerta();
+//      }
+//  }
+    // crear puertas tam_diferente
+//  Piso(Tamanyos[] Tamanyos)
+//  {
+//     puerta=newPuerta[Tamanyos.length];
+//      for(int i=0; i < Tamanyos.length; i++)
+//      {
+//          puerta[i]=newPuerta(tamanyo[i].ancho, tamanyo[i].alto);
+//      }
+//  }
+}
+
+//Utilizar
+class Piso
+{
+    public int superficie;
+    Puerta puerta1;
+    Puerta puerta2; //=new Puerta(); MAL!!! INSTANCIAR EN EL CONSTRUCTOR!!!
+
+    Piso(int superficie, int ancho, int puerta)
+    {
+        this.superficie=superficie;
+        puerta1=newPuerta(ancho,alto);
+        puerta2=newPuerta(ancho,alto);
+    }
+}
+
+*Me dicen que la clase piso quieren que tenga la superficie del piso y una puerta estandar
+class Piso : Puerta
+{
+    public int superficie;
+
+    Piso() : base()
+    {
+        this.superficie=80;
+    }
+}

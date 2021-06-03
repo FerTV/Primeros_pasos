@@ -1,0 +1,26 @@
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.FPrincipal.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.FProductosModificar.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\CRUD.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\CRUD.pdb
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\itextsharp.dll
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\bin\Debug\itextsharp.xml
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.FPrincipal.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.FProductosModificar.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.exe
+C:\Users\FerTV\Documents\DAM\Programación\Programas\Base de Datos\CRUD v1.0\CRUD\obj\Debug\CRUD.pdb

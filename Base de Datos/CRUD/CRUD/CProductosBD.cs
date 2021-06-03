@@ -18,6 +18,8 @@ namespace CRUD
         private SqlCommand sqlCommand = new SqlCommand();
         // Para almacenar los datos de una sentencia SELECT.
         private SqlDataReader sqlDataReader;
+        // Variable privada para indicar el error que se ha producido.
+        private String sError;
         // Propiedades para almacenar los datos de un registro de la tabla.
         public int Producto_id { get; set; }
         public int Categoria_id { get; set; }
@@ -26,10 +28,12 @@ namespace CRUD
         public String Marca { get; set; }
         public String Producto { get; set; }
         public double Precio { get; set; }
+        public int Codigo { get; set; }
         public DataTable Seleccionar(int producto_id = 0)
         {
             // Para almacenar la tabla leída en memoria.
             DataTable dataTable = new DataTable();
+
             try
             {
                 // Realizamos la conexión.

@@ -7,7 +7,17 @@ namespace Ejercicio_8_5_1
     {
         static void Main(string[] args)
         {
-             using(StreamWriter fichero = new StreamWriter(".\\resultados\\sumas.txt", true))
+            void suma(int n1, int n2)
+            {
+                Console.WriteLine(n1+n2);
+            }
+
+            int suma1(int n1, int n2)
+            {       
+                return n1+n2;
+            }
+
+            using (StreamWriter fichero = new StreamWriter(".\\resultados\\sumas.txt", true))
              {
                 int n1, n2, suma;
 
@@ -19,6 +29,16 @@ namespace Ejercicio_8_5_1
                 Console.WriteLine("{0} + {1} = {2}", n1, n2, suma);
                 fichero.WriteLine("{0} + {1} = {2}", n1, n2, suma);
              }
+
+            int n1=2, n2=3, resultado;
+
+            suma(n1,n2);
+            resultado=suma1(n1, n2);
+
+            
+
+            Console.WriteLine(resultado*2);
+            
         }
     }
 }
