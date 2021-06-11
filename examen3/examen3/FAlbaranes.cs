@@ -8,13 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// --------------------------------------------
-// Fernando Torres Vega
-// Curso DAM
-// Modalidad Presencial
-// Examen 3ª evaluación
-// --------------------------------------------
-
 namespace examen3
 {
     public partial class FAlbaranes : Form

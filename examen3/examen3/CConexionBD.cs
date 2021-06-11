@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-// --------------------------------------------
-// Fernando Torres Vega
-// Curso DAM
-// Modalidad Presencial
-// Examen 3ª evaluación
-// --------------------------------------------
-
 namespace examen3
 {
     class CConexionBD
