@@ -64,19 +64,19 @@
     <Compile Include="FPrincipal.Designer.cs">
       <DependentUpon>FPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FInsertar.cs">
+    <Compile Include="FProductosModificar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FInsertar.Designer.cs">
-      <DependentUpon>FInsertar.cs</DependentUpon>
+    <Compile Include="FProductosModificar.Designer.cs">
+      <DependentUpon>FProductosModificar.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FPrincipal.resx">
       <DependentUpon>FPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FInsertar.resx">
-      <DependentUpon>FInsertar.cs</DependentUpon>
+    <EmbeddedResource Include="FProductosModificar.resx">
+      <DependentUpon>FProductosModificar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

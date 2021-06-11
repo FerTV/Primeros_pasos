@@ -12,7 +12,7 @@ namespace CRUD
     public class CConexionBD
     {
         // Cadena de conexión con la base de datos.
-        static private string cadenaConexion = @"Server=FTV-PC\SQLEXPRESS;DataBase=ERP;Integrated Security=true;";
+        static private string cadenaConexion = @"Server=localhost\SQLEXPRESS;DataBase=ERP;Integrated Security=true;";
         // Conexión a la base de datos.
         public SqlConnection Connection { get; } = new SqlConnection(cadenaConexion);
         public void Abrir()
