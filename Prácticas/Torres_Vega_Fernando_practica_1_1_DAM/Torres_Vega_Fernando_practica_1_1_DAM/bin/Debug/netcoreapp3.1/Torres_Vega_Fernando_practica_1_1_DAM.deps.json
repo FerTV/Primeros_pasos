@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Torres_Vega_Fernando_practica_1_1_DAM/1.0.0": {
+        "runtime": {
+          "Torres_Vega_Fernando_practica_1_1_DAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Torres_Vega_Fernando_practica_1_1_DAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

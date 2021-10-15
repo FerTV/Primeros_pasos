@@ -16,7 +16,7 @@ namespace Ejercicio_8_3_3
             using(StreamReader fichero = new StreamReader(nombre_fichero))
             {
                 do
-                {
+                { 
 
                     for (int i = 0; i < 24 && linea != null; i++) 
                     {

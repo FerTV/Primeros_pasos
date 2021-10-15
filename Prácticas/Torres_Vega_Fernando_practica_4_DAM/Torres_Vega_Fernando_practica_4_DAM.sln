@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torres_Vega_Fernando_practica_4_DAM", "Torres_Vega_Fernando_practica_4_DAM\Torres_Vega_Fernando_practica_4_DAM.csproj", "{821539B1-1C17-4872-810E-56F6DBB801DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821539B1-1C17-4872-810E-56F6DBB801DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821539B1-1C17-4872-810E-56F6DBB801DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821539B1-1C17-4872-810E-56F6DBB801DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821539B1-1C17-4872-810E-56F6DBB801DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4E1298-46AC-4FC9-AE89-C1E4C6CCF11F}
+	EndGlobalSection
+EndGlobal
